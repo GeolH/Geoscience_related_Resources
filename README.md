@@ -1,3 +1,3 @@
-# Geoscience_related_Resources
-Compilation of Geoscience related open sources 
+#Geoscience_related_Resources
+
 [Gplate-a program applicable for tectonics research] (https://www.gplates.org/)
